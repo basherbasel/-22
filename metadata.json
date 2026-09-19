@@ -1,0 +1,8 @@
+{
+  "name": "Apex Local Repair Box",
+  "description": "Professional-grade local workstation for mobile and laptop hardware diagnostics, firmware flashing, and AI-assisted repair workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
